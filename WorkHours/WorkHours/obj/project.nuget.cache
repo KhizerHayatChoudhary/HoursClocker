@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Esdsc6h4oQM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khize\\OneDrive\\Documents\\App Development\\WorkHours\\WorkHours\\WorkHours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khize\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}
